@@ -2,7 +2,7 @@
 
 ## Description
 
-Set of extensions for `xmerl` - *Erlang's* Standard Library used for *XML manipulation*.
+Set of extensions for Erlang's `xmerl` library (`CDATA`, *XML entities*, *DTD* definitions).
 
 ## Development
 
