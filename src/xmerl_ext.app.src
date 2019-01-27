@@ -1,0 +1,13 @@
+{application, xmerl_ext, [
+  {description, "Set of extensions for Erlang's xmerl library (CDATA, XML entities, DTD definitions)."},
+  {vsn, "git"},
+  {applications, [
+    kernel,
+    stdlib
+  ]},
+  {env, [
+  ]},
+  {modules, [
+    xmerl_xml_ext
+  ]}
+]}.
