@@ -1,0 +1,30 @@
+# Erlang dependencies:
+_build
+
+# Rebar working directory:
+.rebar3
+.rebar
+
+# EUnit directory:
+.eunit
+
+# Binaries and Dumps:
+*.o
+*.beam
+ebin
+erl_crash.dump
+rebar3.crashdump
+
+# Dialyzer elements:
+*.plt
+
+# Cookie:
+.erlang.cookie
+
+# Logs
+log
+logs
+
+# IDE files:
+.idea
+*.iml
